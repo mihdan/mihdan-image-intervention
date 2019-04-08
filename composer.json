@@ -1,0 +1,24 @@
+{
+    "name": "mihdan/mihdan-image-intervention",
+    "description": "WordPress image manipulation plugin",
+    "version": "0.0.1",
+    "type": "wordpress-plugin",
+    "keywords": ["wordpress", "image", "intervention", "mihdan"],
+    "homepage": "https://www.kobzarev.com",
+    "license": "GPL-2",
+    "authors": [
+        {
+            "name": "Mikhail Kobzarev",
+            "email": "mikhail@kobzarev.com",
+            "homepage": "https://www.kobzarev.com",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "email": "mikhail@kobzarev.com",
+        "issues": "https://github.com/mihdan/mihdan-image-intervention/issues"
+    },
+    "require": {
+        "intervention/image": "2.4.*"
+    }
+}
